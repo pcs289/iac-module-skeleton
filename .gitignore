@@ -1,0 +1,13 @@
+# IDEA Folder
+.idea/
+
+# Local .terraform directories
+.terraform/
+
+# Exclude .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Exclude .tfvars files, which are likely to contain sentitive data, such as
+# password, private keys, and other secrets.
+*.tfvars
